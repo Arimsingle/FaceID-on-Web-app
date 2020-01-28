@@ -1,0 +1,12 @@
+{
+    "users" : {
+      "User" : {
+        "Info" : {
+          "email" : "Arima@gmail.com",
+          "name" : "Arima",
+          "password" : "123456"
+        }
+      }
+    }
+  }
+  
